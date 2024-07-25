@@ -1,0 +1,4 @@
+Flask
+Flask-CORS
+supabase
+python-jose
